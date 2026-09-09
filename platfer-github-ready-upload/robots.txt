@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://platfer.in/sitemap.xml
