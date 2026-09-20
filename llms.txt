@@ -1,0 +1,21 @@
+# Platfer
+
+Platfer is an education and coaching platform for teachers, coaching institutes and students in India.
+
+## Core pages
+- https://platfer.in/ — Main Platfer coaching platform homepage
+- https://platfer.in/platfer-app.html — Official Platfer App context and Google Play link
+- https://platfer.in/platform-app.html — Platform app for coaching, teaching and learning
+- https://platfer.in/free-online-teaching-platform.html — Free online teaching platform for teachers and coaching
+- https://platfer.in/coaching-growth-guide.html — Guide to moving offline coaching online and reaching students
+- https://platfer.in/best-app-for-teachers.html — Online teaching platform for teachers
+- https://platfer.in/best-coaching-app.html — Coaching app for teachers, institutes and students
+- https://platfer.in/online-coaching-platform-india.html — Online coaching platform in India
+- https://platfer.in/live-classes-app.html — Live class platform and app
+- https://platfer.in/recorded-lectures-app.html — Recorded lecture upload and learning
+
+## Product
+Platfer provides live classes, recorded lectures, Smart Board, Notes + Voice, online tests, attendance, fees management, student records, batches, announcements, messaging, Communities, coaching profiles and student coaching discovery. Teachers can use the teacher platform free; students can join relevant coaching batches using Batch Codes and use learning features.
+
+## Official Android app
+https://play.google.com/store/apps/details?id=com.platfer.app
