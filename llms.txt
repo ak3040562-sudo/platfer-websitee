@@ -14,8 +14,28 @@ Platfer is an education and coaching platform for teachers, coaching institutes 
 - https://platfer.in/live-classes-app.html — Live class platform and app
 - https://platfer.in/recorded-lectures-app.html — Recorded lecture upload and learning
 
+
+- https://platfer.in/coaching-students-kaise-badhaye.html — Practical guide to improving coaching visibility and reaching students
+- https://platfer.in/coaching-institute-online-kaise-kare.html — Guide to taking an offline coaching institute online
+- https://platfer.in/coaching-fees-management-app.html — Coaching fee management workflow
+- https://platfer.in/coaching-attendance-management.html — Coaching attendance workflow
+- https://platfer.in/coaching-batch-management-app.html — Coaching batch management workflow
+- https://platfer.in/coaching-management-app.html — Coaching student and management workflow
+
 ## Product
 Platfer provides live classes, recorded lectures, Smart Board, Notes + Voice, online tests, attendance, fees management, student records, batches, announcements, messaging, Communities, coaching profiles and student coaching discovery. Teachers can use the teacher platform free; students can join relevant coaching batches using Batch Codes and use learning features.
 
 ## Official Android app
 https://play.google.com/store/apps/details?id=com.platfer.app
+
+## Hindi / Hinglish guides
+- https://platfer.in/online-coaching-kaise-shuru-kare.html — Step-by-step guide to starting online coaching
+- https://platfer.in/coaching-institute-ka-naam-kaise-rakhe.html — Coaching institute naming and branding guide
+- https://platfer.in/coaching-marketing-kaise-kare-free-mein.html — Free coaching marketing ideas
+- https://platfer.in/neet-jee-coaching-online-kaise-le.html — Student guide to choosing NEET/JEE online coaching
+- https://platfer.in/coaching-attendance-register-vs-app.html — Paper register vs digital attendance workflow
+- https://platfer.in/school-teacher-ke-liye-online-tools.html — Online tools guide for school teachers
+- https://platfer.in/coaching-fees-online-kaise-collect-kare.html — Online coaching fee collection guide
+- https://platfer.in/chhoti-coaching-ko-bada-kaise-banaye.html — Growth guide for small coaching institutes
+- https://platfer.in/home-tutor-apna-app-kaise-banaye.html — Digital app/workflow guide for home tutors
+- https://platfer.in/coaching-institute-se-online-institute-kaise-bane.html — Offline-to-online coaching transformation guide
