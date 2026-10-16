@@ -1,0 +1,43 @@
+PLATFER VEO 32 — URL AND QA NOTES
+
+Updated pages:
+- free-tools.html
+- percentage-calculator.html
+- cgpa-to-percentage-converter.html
+- coaching-fee-calculator.html
+- attendance-percentage-calculator.html
+- student-id-card-generator.html
+- question-paper-generator.html
+- certificate-generator.html
+- lesson-plan-generator.html
+- student-report-card-generator.html
+- study-planner-app-for-students.html
+- student-journal-app.html
+
+New/updated public URLs (after deployment):
+https://platfer.in/free-tools
+https://platfer.in/percentage-calculator
+https://platfer.in/cgpa-to-percentage-converter
+https://platfer.in/coaching-fee-calculator
+https://platfer.in/attendance-percentage-calculator
+https://platfer.in/student-id-card-generator
+https://platfer.in/question-paper-generator
+https://platfer.in/certificate-generator
+https://platfer.in/lesson-plan-generator
+https://platfer.in/student-report-card-generator
+https://platfer.in/study-planner-app-for-students
+https://platfer.in/student-journal-app
+
+Changes:
+- Replaced broken header image logo on the new tool pages with a text wordmark “Platfer” matching the old pages (cyan “fer”); no logo image was inserted into any H1.
+- Added mobile-friendly responsive footer with Explore/Navigate/Contact, social links and Play Store CTA.
+- Added rounded internal-link pills, Download Platfer CTA, PDF print and JPG export controls to tools.
+- CGPA converter supports marks-based percentage and configurable CGPA conversion; no unsupported claim that one formula applies to every board/university.
+- Attendance calculator supports single student, bulk table up to 1,000 rows, CSV upload/paste, editing, average summary, CSV download, print/save PDF, and JPG summary.
+- Attendance photo upload OCR is NOT implemented. The page clearly tells users that photos are not auto-read, to avoid pretending OCR works.
+- Study Planner and Student Journal titles/descriptions/keywords and related internal links improved.
+
+Validation limits:
+- This is a static package edit. It has not been deployed to platfer.in from this environment.
+- Inline JavaScript syntax was checked with Node for all packaged HTML pages (309 inline scripts checked; zero syntax errors). Browser automation was attempted but the sandbox browser blocked local/network page navigation, so interactive UI smoke testing was not completed here. JPG export depends on browser SVG/foreignObject support; print/save PDF uses the browser print dialog.
+- No 80%+ Seobility score or Google ranking is guaranteed. Run a new crawl after deployment.

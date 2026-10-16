@@ -1,0 +1,8 @@
+PLATFER VEO 49 — SPLASH / STARTUP FIX
+Based on VEO 47 (For Students navigation fix). Changes are limited to startup splash timing.
+- Removed the independent 4.4-second CSS fail-safe that could hide the splash while the SPA was still booting, exposing a blank purple screen.
+- Splash now remains visible until route content has rendered into #page-content.
+- Enforces a minimum 2-second splash from startup; if rendering takes longer, it dismisses as soon as content exists.
+- Makes the page shell visible only after a route has actual content.
+- Preserves the existing homepage, hero image/3D animation, logo, header, Features page, For Students navigation, page content, assets and SEO pages.
+- Static checks only. Browser testing on real fast/slow networks was not available in this environment; please test after local extraction and on the deployed site.

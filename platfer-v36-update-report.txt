@@ -1,0 +1,24 @@
+Platfer VEO 36 — Update report
+
+Base: user-uploaded platfer-complete-seo-v35-1-title-teacher-trust-nav ZIP.
+Scope: shared navigation/CTA consistency and delayed app promo sheet.
+
+Changes:
+- Kept all 87 HTML pages and existing assets/content; no page files were intentionally removed.
+- Added a responsive app-promo bottom sheet to all 87 HTML pages. It is not shown on initial page load; it is triggered after about 3.2 viewport heights of scrolling or near the bottom of longer pages.
+- Promo copy: “Get Platfer App for”, “Your Entire Prep in One App”, “Download now & start learning today”, “Open in App”, “Continue in Web”.
+- “Open in App” links to the existing Platfer Google Play listing. “Continue in Web” closes the sheet. No close/X button is shown.
+- Added an optimized WebP illustration of three Platfer-style Android app screens (about 159 KB).
+- Standardized navbar links across all pages to Home, Features, For Students, Founder & CEO, Pricing, Contact Us, Download App. Removed Blog and For Institutes from navbar only; page content was otherwise preserved.
+- Download App / Get Platfer CTA links are styled cyan to match the header CTA and point to the existing Google Play listing.
+- index.html title retained as: Platfer - Coaching Platform for Teachers, Institutes & Students.
+- Existing teacher trust avatar image assets and trust strip retained.
+
+Static QA:
+- 87 HTML pages found and modified.
+- All 87 pages contain exactly one app promo sheet and promo script.
+- No navbar contains Blog or For Institutes.
+- No missing app phone illustration.
+- index.html title verified.
+- This is static-file QA only; not a live deployment, browser automation, or real-device test.
+- Trust wording “Trusted by 1,000+ Teachers in India” should be used only if the figure is accurate and verifiable.
