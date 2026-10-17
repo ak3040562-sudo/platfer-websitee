@@ -1,0 +1,16 @@
+Platfer VEO 38 change report
+
+Base: VEO 37 features-homepage-scroll ZIP.
+Changes:
+- Fixed Features anchor: the existing teacher/features section now has a valid id="features" (the previous id value contained two words, so getElementById could not find it).
+- Features navigation on all HTML pages points to the homepage and its existing Features section; no new page or section created.
+- For Students navigation continues to target the existing #students section.
+- Startup loader no longer hides while #page-content is empty; it hides once the existing Home hero markup is rendered, preventing the blank footer-first flash.
+- Existing page layout, zoom, font sizes, section spacing, theme, images, and content were not intentionally changed.
+
+Static QA:
+- HTML pages in archive: 88
+- index has a valid id="features": True
+- guarded loader readiness logic: True
+- existing hero render remains: True
+- browser/mobile live testing: NOT performed
