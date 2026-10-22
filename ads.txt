@@ -1,0 +1,2 @@
+# ads.txt for platfer.in - https://platfer.in/ads.txt
+google.com, pub-7444471000677426, DIRECT, f08c47fec0942fa0
