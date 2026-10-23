@@ -48,3 +48,31 @@ https://play.google.com/store/apps/details?id=com.platfer.app
 - Free Attendance Tracker Excel Template for Tutors: https://platfer.in/free-attendance-tracker-excel-template-for-tutors.html
 - How to Stream Live Classes on Low Internet Bandwidth: https://platfer.in/how-to-stream-live-classes-on-low-internet-bandwidth.html
 
+## Company
+- https://platfer.in/about-us — About Platfer: story, mission and founder
+- https://platfer.in/disclaimer — Disclaimer for platfer.in content
+- [Blog: Coaching fees system that gets you paid on time](https://platfer.in/blog/coaching-fees-paid-on-time): Platfer blog post — a practical four-part fee collection system for coaching teachers (fixed fee day, receipts, pending list, reminder).
+- [Blog: 2-minute daily attendance routine that keeps batches full](https://platfer.in/blog/attendance-two-minute-daily-routine): Platfer blog post — a practical five-part daily attendance routine for coaching teachers (first-two-minutes marking, one list, three-day rule, parent message, monthly scan).
+- [Blog: Fee reminder WhatsApp messages that get parents to pay](https://platfer.in/blog/fee-reminder-messages-that-work): Platfer blog post — a three-message fee reminder ladder for coaching teachers (two days before due date, on due date, three days late), with ready-to-send templates in Hindi and English, plus what to say to parents who always delay.
+- [Blog: Your Coaching Does Not Need Its Own App]https://platfer.in/blog/your-coaching-does-not-need-its-own-app): Platfer blog post — why a teacher does not need to build their own coaching app — the real costs, the student download problem, and the shared-platform model where a teacher gets an app-like platform with all tools, free.
+
+- [Blog: Tonight, a Student in Your City Is Searching for a Coaching]https://platfer.in/blog/students-searching-coaching-in-your-city): Platfer blog post — how students find and shortlist a coaching in their city today (city first, then subject, class, budget), and the five profile fixes that get a coaching onto the list students find.
+
+- [Blog: Finding a Coaching in Your City: Check These Things Before You Pay the First Fee]https://platfer.in/blog/how-to-choose-a-coaching-in-your-city): Platfer blog post — a parent-and-student checklist for choosing a coaching in their city — seven checks before paying the first fee (real teacher, test feedback, full fee in writing, real batch size, recorded backup, trial classes, asking current parents).
+- [Coaching in Your City — Find and Be Found](https://platfer.in/coaching-in-your-city): how city-wise coaching discovery works on Platfer — students select their city and see every coaching there by subject, class and fees; teachers list free.
+
+- [Coaching in Kota — JEE, NEET and the Teachers Behind Them](https://platfer.in/coaching-in-kota): coaching in Kota — JEE/NEET coaching capital; how students choose a batch over a brand, and how independent Kota teachers get discovered.
+
+- [Coaching in Patna — Board, JEE, NEET and Govt Exam Classes](https://platfer.in/coaching-in-patna): coaching in Patna — Boring Road, Kankarbagh; board, JEE-NEET and government-exam classes; how Patna teachers get found beyond word of mouth.
+
+- [Coaching in Delhi — UPSC, SSC, JEE-NEET and School Classes](https://platfer.in/coaching-in-delhi): coaching in Delhi — Mukherjee Nagar (UPSC), Laxmi Nagar (SSC/CA), JEE-NEET clusters and colony tuition; how Delhi students shortlist and teachers get discovered.
+
+- [Coaching in Lucknow — Board Classes, SSC, UPPSC and JEE-NEET](https://platfer.in/coaching-in-lucknow): coaching in Lucknow — UP Board classes, SSC and UPPSC halls, growing JEE-NEET; recommendation culture and discovery.
+
+- [Coaching in Indore — MP Board, JEE-NEET, CA and MPPSC](https://platfer.in/coaching-in-indore): coaching in Indore — Vijay Nagar and Bhawarkuan; MP Board, JEE-NEET, CA and MPPSC; students arriving from across MP.
+
+- [Coaching in Jaipur — JEE-NEET Lanes, Board Classes and REET](https://platfer.in/coaching-in-jaipur): coaching in Jaipur — the Gopalpura JEE-NEET corridor and colony board/REET teachers; Rajasthan students choosing between Jaipur and Kota.
+
+- [Coaching Glossary — Teaching and Coaching Terms, Simply Explained](https://platfer.in/coaching-glossary): a plain-language glossary of coaching terms — live class, recorded lecture, batch, test series, mock test, LMS, hybrid coaching, white-label app, trial class, retention and more.
+
+- [Coaching App Cost in India — Build, Buy or Go Free?](https://platfer.in/coaching-app-cost-in-india): what a coaching app really costs in India — building your own (₹50,000–₹2,00,000+ plus yearly maintenance), white-label platforms, and the free platform route, with hidden year-two costs.
