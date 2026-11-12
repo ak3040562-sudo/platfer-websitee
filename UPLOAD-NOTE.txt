@@ -1,24 +1,33 @@
-Platfer v90 — UPLOAD NOTE (read before uploading)
-====================================================
-Upload ONLY this zip: platfer-v90.zip
+Platfer v91 — UPLOAD NOTE (2026-11-12)
+=====================================
 
-It SUPERSEDES platfer-daily-blogs-2026-11-12.zip and every earlier daily-blog
-zip. Do NOT upload any older zip afterwards — an older zip would overwrite the
-84-post blog listing and the v90 mobile fixes with stale files.
+Upload ONLY platfer-v91.zip. It SUPERSEDES platfer-v90.zip and every daily
+blog zip (Nov 4-12) — do not upload those. If you already uploaded v90
+partially, uploading this full v91 zip finishes the job: it contains every
+v90 fix plus all v91 changes.
 
-WHAT ONE UPLOAD PUBLISHES
-- Blog: 48 -> 84 posts (all 36 pending Nov 4-12 posts, in one go).
-- Mobile fixes: teaching-app hero photo + section spacing now match index.html;
-  63 pages with an empty hero visual space now show the 3D animation.
+WHAT THIS UPLOAD PUBLISHES
+- Blog listing 48 -> 84 posts (the 36 Nov 4-12 posts stop 404ing).
+- Mobile display fixes: teaching-app hero renders on phones; empty hero
+  spaces collapse on phones; the 3D animation is gone from all pages.
+- New CTR titles + meta descriptions on 98 pages (better click-through
+  from Google; no visible content changed).
+- 497 new internal links across the site (blog posts, money pages,
+  comparison/city pages, tool pages).
+- TWO new pages: /best-coaching-app-for-teachers-2027 and
+  /classplus-alternatives-2027 (2027 comparisons with sourced pricing).
+- FAQ schema on 9 more pages (contact, pricing, policies, features).
 
-HOW TO UPLOAD (same as previous packages)
-- Upload the zip's files to the repo root, keeping the same paths
-  (blog.html, sitemap.xml, llms.txt at root; post pages under blog/).
-- No files need deleting. No other change is needed.
+AFTER UPLOAD, CHECK ON YOUR PHONE
+1. https://platfer.in/blog/ shows 84 posts.
+2. A Nov 4-12 blog post opens (no 404), e.g. the newest post.
+3. https://platfer.in/best-coaching-app-for-teachers-2027 opens.
+4. https://platfer.in/classplus-alternatives-2027 opens.
+5. The 3D animation is gone from every page you open.
 
-AFTER UPLOAD
-- Tell Muse the upload is done. Muse will live-check the 36 blog URLs
-  (Nov 4-12 posts) and request Google Search Console indexing for them.
-- On your phone, check teaching-app + any 2-3 other pages: hero visual must
-  show (photo on teaching-app, 3D animation elsewhere) and text must sit with
-  the same left/right space as the homepage.
+NOTE: Google indexing of the 36 new blog URLs + 2 new pages takes days
+after upload (Search Console requests, ~10-12/day). That follow-up is
+separate from this upload.
+
+FILES: this zip = exact diff vs the live v89 upload + this note.
+CHANGED-FILES.txt inside lists every file. No file is deleted or renamed.
